@@ -113,10 +113,6 @@ Data Science enthusiast with hands-on experience building end-to-end machine lea
 
 <br/><br/>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=parisha-sharma&theme=dracula&no-frame=false&margin-w=6&column=6" alt="GitHub Trophies"/>
-
 </div>
 
 ---
@@ -125,11 +121,11 @@ Data Science enthusiast with hands-on experience building end-to-end machine lea
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parisha-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parishasharma15)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parisha-sharma)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/parishasharma)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/parishasharma15)
 
 <br/>
 
